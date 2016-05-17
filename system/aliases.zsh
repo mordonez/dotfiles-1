@@ -8,3 +8,7 @@ then
   alias ll="gls -l --color"
   alias la='gls -A --color'
 fi
+
+alias lockscreen='/System/Library/CoreServices/"Menu Extras"/User.menu/Contents/Resources/CGSession -suspend'
+alias byebyebaby="osascript -e 'tell app \"loginwindow\" to «event aevtrsdn»'"
+alias restart="osascript -e 'tell app \"loginwindow\" to «event aevtrrst»'"
