@@ -17,6 +17,7 @@ Thumbs.db
 .Trashes
 
 # IDE files
+.idea
 
 # Package files
 *.tar.gz
